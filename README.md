@@ -4,7 +4,7 @@
 Hi, I'm Abhigya. I enjoy problem solving using Math, Coding, and AI. 
 
 ### Tech Skills
-**Languages:** Python, C++, SQL
+**Languages:** Python, C++, SQL  
 **Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib
 
 ### Projects:
