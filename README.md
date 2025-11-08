@@ -1,16 +1,15 @@
-## Hi there 👋
+# Abhigya Koirala
+### Mathematics @ Kenyon College | Aspiring Quantitative Researcher
 
-<!--
-**abhigyak47/abhigyak47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Abhigya. I enjoy problem solving using Math, Coding, and AI. 
 
-Here are some ideas to get you started:
+### Tech Skills
+**Languages:** Python, C++, SQL
+**Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects:
+* **[NumericalTest](https://github.com/abhigyak47/NumericalTest)**: A GUI-based practice game for the high-speed numerical tests used in quant interviews.
+
+### Other Interests
+* **3D modeling in Blender**
+* **Exploring game mechanics and world-building in Unreal Engine**
