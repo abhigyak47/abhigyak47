@@ -9,6 +9,7 @@ Hi, I'm Abhigya. I enjoy problem solving using Math, Coding, and AI.
 
 ### Projects:
 * **[NumericalTest](https://github.com/abhigyak47/NumericalTest)**: A GUI-based practice game for the high-speed numerical tests used in quant interviews.
+* **[Swastha](https://github.com/abhigyak47/heart-app)**: An AI application that analyzes heartbeat audio for remote heart-health monitoring, with a [chatbot](https://github.com/abhigyak47/heart-app) interface and a supporting [heartbeat classification model API](https://github.com/abhigyak47/ml-api).
 
 ### Other Interests
 * **3D modeling in Blender**
